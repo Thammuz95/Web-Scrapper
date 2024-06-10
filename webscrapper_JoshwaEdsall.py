@@ -4,9 +4,8 @@ Champlain College Current Students Web Scraper
 This script fetches the HTML content from the Champlain College current students page
 and extracts information such as 'Information For' links and login form fields.
 
-Joshwa Edsall
-June 8, 2024
-OPSC-540
+Thammuz95
+
 
 """
 
